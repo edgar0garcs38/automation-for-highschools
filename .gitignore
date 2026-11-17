@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+build/
+dist/
+*.spec
+
+# Student / financial data: never commit
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.pdf
